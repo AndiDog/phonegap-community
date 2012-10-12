@@ -35,6 +35,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 ### ARTICLES
 - [Introducing Walkable – A New Sample App for PhoneGap](http://www.tricedesigns.com/2012/10/02/introducing-walkable-a-new-sample-app-for-phonegap/), Andy Trice
 - [Building a Parse.com Enabled PhoneGap app - Part 4](http://www.raymondcamden.com/index.cfm/2012/10/4/Building-a-Parsecom-Enabled-PhoneGap-App--Part-4), Ray Camden
+- [New tab bar plugin for Android based on ActionBarSherlock](http://bit.ly/Ouc4Ge), Andreas Sommer
 
 
 ## SEPTEMBER 2012
@@ -61,7 +62,6 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - [Building a Parse.com Enabled PhoneGap app - Part 3](http://www.raymondcamden.com/index.cfm/2012/9/27/Building-a-Parsecom-Enabled-PhoneGap-App--Part-3), Ray Camden
 - [Building a Parse.com Enabled PhoneGap app - Part 2](http://www.raymondcamden.com/index.cfm/2012/9/25/Building-a-Parsecom-Enabled-PhoneGap-App--Part-2), Ray Camden
 - [Building a Parse.com Enabled PhoneGap app - Part 1](http://www.raymondcamden.com/index.cfm/2012/9/21/Building-a-Parsecom-Enabled-PhoneGap-App--Part-1), Ray Camden
-
 
 
 ## AUGUST 2012
